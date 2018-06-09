@@ -40,11 +40,11 @@ Interested in research, software design, or development position to utilize my s
 
    _Recognized for GBS Service Excellence Award for demonstrating the Practice: Put the Client First_
 
-* **Award of Excellence** NIIT Technologies        12/2013
+* **Award of Excellence**|NIIT Technologies|12/2013
 
    _Recognized for being adept at multi-tasking and as very thorough and effective in all the assigned tasks. Appreciated as the one, colleagues and team-mates go to when it comes to dealing with multiple technologies supporting multiple clients._
 
-* **IBM Manager&#39;s Choice Award** IBM        Multiple times
+* **IBM Manager&#39;s Choice Award**|IBM|Multiple times
 
    _Recognized multiple times for the Manager&#39;s Choice Award program for demonstrating the following practices:_
 
@@ -119,7 +119,7 @@ ERMS is commercial insurance policy administration platform developed in .Net, D
   * Platform &amp; Tools: C#, .Net, WCF, Delphi 2010, MS SQL Server, Python, Final Builder, IIS, JIRA, Docker
   * Responsibilities: Requirement Analysis, Estimation, Impact Analysis, Solution Design, Technical Specification, Work Distribution, Development, Code Review, Progress Monitoring, Build/Deployment Activities, QC/UAT Support, Internal Audits and represent Client for Legal Compliance Audits
 
-* **Subscribe Webservices** __ 09/2012 – 11/2014
+* **Subscribe Webservices** 09/2012 – 11/2014
 
     _(Web services for Subscribe Policy Admin Platform)_ NIIT Technologies
 Subscribe Web Services is a WCF web service module developed in Visual C#/.Net/MSSQL to expose key functionalities of company&#39;s flagship product Subscribe.
@@ -129,9 +129,9 @@ Subscribe Web Services is a WCF web service module developed in Visual C#/.Net/M
   * Platform: C#/WCF .NET 4/MS SQL/IIS
   * Responsibilities: Requirement Analysis, Estimation, Creation of Tech Specification, HLD, LLD docs, Client Meetings, Coding, Code Review, Scheduling, Progress Monitoring, QC Support, Training
 
-* **Subscribe** __ 06/2011 – 03/2014
+* **Subscribe** 06/2011 – 03/2014
 
-    _(Commercial Insurance Policy Admin Platform)_ __ NIIT Technologies
+    _(Commercial Insurance Policy Admin Platform)_ NIIT Technologies
 Subscribe is modular commercial insurance and reinsurance policy administration platform. It is primarily developed in Delphi/MSSQL. 
 
     I lead a team of 10+ members and was responsible for managing code‑base, requirement gathering from client, to provide technical know-how to team members, and timely resolution of support calls. We worked on quarterly product releases comprising of enhancements and development of new features/modules.
@@ -141,9 +141,9 @@ Subscribe is modular commercial insurance and reinsurance policy administration 
   * Platform: Delphi XE4, XE5, 2010/MSSQL/Win32
   * Responsibilities: Support and Maintenance, Requirement Analysis, Estimation, Creation of Tech Specification, HLD, LLD docs, Coding, Code Review, Scheduling, Progress Monitoring, QC Support, Training, Performance Review, Delivery and Release Deployment
 
-* **V6** __ 04/2011 – 06/2011
+* **V6** 04/2011 – 06/2011
 
-    _(Fenestration/CAD Software)_ __ ST SoftTech Inc.
+    _(Fenestration/CAD Software)_ ST SoftTech Inc.
 ST SoftTech is a leading multinational fenestration software company and V6 is their flagship product for fenestration industry. V6 is an object based configurator and manufacturing application specifically designed for the fenestration domain. It has a unique 3D modeling engine that produces BOM&#39;s and fabrication detail.
 
     As member of V6 development team, I was responsible for enhancement/development work. V6 software is developed in Delphi/MSSQL/Win32.
@@ -152,9 +152,9 @@ ST SoftTech is a leading multinational fenestration software company and V6 is t
   * Platform: Delphi XE3/MSSQL/Win32
   * Responsibilities: Support and Maintenance, Coding, Code Review, QC Support, Training, Performance Review, Delivery and Release Deployment
 
-* **CoreCard Software Platform** __ 08/2010 – 03/2011
+* **CoreCard Software Platform** 08/2010 – 03/2011
 
-    _(Credit/Debit Card Management SW Platform)_ __ CoreCard Software
+    _(Credit/Debit Card Management SW Platform)_ CoreCard Software
 CoreCard Software is a feature rich platform for card issuers and processors to manage full range of card products including prepaid/stored value, fleet, credit, debit, private label, healthcare and government cards as well as accounts receivable. The software is developed in Visual C++/IIS/Win32/MSSQL Server.
 
     I was part of product development team for CoreCard's platform module, FleetOne, and Fingerhut teams, worked on enhancement and support issues.
@@ -167,7 +167,6 @@ CoreCard Software is a feature rich platform for card issuers and processors to 
 ## Personal
 
 * LinkedIn: <http://linkedin.com/in/gauravkanoongo>
-* Passport: Avaialble
 * Work Authorization in USA: H1B Visa 
-* Email: gauravkanoongo@gmail.com
+* Email: gauravkanoongo(at)gmail.com
 * Skype: gaurav.kanoongo
